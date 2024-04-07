@@ -1,0 +1,1 @@
+streamlit run "C:\Users\KIIT\OneDrive\Desktop\Multiple Disease Analyze\multiple_disease_pred.py"
